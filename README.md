@@ -1,4 +1,4 @@
-<h1 align="center">BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation</h1>
+<h1 align="center">BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation (Glyph-ByT5-v3)</h1>
 <p align="center">
   <a href=""><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
   <a href='https://bizgen-msra.github.io'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
