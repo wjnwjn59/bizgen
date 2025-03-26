@@ -1,4 +1,4 @@
-# Structure of the meta files:
+## Structure of the meta files:
 The meta information for each infographic/slide is organized in a dict format with keys:
 -**index**: An identifier
 -**full_image_caption**: The global prompt that includes all the contents in an infographic/slide
