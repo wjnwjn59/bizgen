@@ -5,7 +5,8 @@
   <a href='https://huggingface.co/PYY2001/BizGen'><img src='https://img.shields.io/badge/Model-Huggingface-yellow?logo=huggingface&logoColor=yellow' alt='Model'></a>
 
 
-<p align="center"><img src="assets/teaser.png" width="100%"></p>
+<p align="center"><img src="assets/teaser_info.png" width="100%"></p>
+<p align="center"><img src="assets/teaser_slide.png" width="100%"></p>
 
 <span style="font-size: 16px; font-weight: 600;">This repository supports article-level visual text rendering of business content (infographics and slides) based on ultra-dense layouts
 
