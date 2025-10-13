@@ -1,0 +1,219 @@
+[
+    {
+        "index": 0,
+        "layers_all": [
+            {
+                "category": "base",
+                "top_left": [
+                    0,
+                    0
+                ],
+                "bottom_right": [
+                    896,
+                    2240
+                ],
+                "caption": "The image is a digital graphic with a light blue background that features a pattern of small white dots and lines that resemble a snowflake design. At the top of the image, in bold white text, the title reads \"COVID SAFETY RULES FOR HOTELS.\" Below the title, there are three numbered points, each providing a guideline for hotel safety measures related to COVID-19. The text is in a darker shade of blue, which stands out against the lighter background. The font is sans-serif, which gives the text a modern and clean appearance. The overall style of the image is informational and appears to be designed for educational or promotional purposes, likely to inform hotel staff or guests about the safety measures in place."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    0,
+                    0
+                ],
+                "bottom_right": [
+                    896,
+                    2240
+                ],
+                "caption": "The image you've provided is completely blank and white. There are no objects, no text, no colors, and no discernible features. It's a plain, unadorned, and uniform white space."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    448,
+                    303
+                ],
+                "bottom_right": [
+                    896,
+                    489
+                ],
+                "caption": "The picture features a pattern of blue viruses with white dots on a light background."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    0,
+                    448
+                ],
+                "bottom_right": [
+                    896,
+                    992
+                ],
+                "caption": "The image features a large, solid blue rectangle with a rough, jagged edge."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    0,
+                    1055
+                ],
+                "bottom_right": [
+                    896,
+                    1599
+                ],
+                "caption": "The image features a solid, flat blue background with a white border."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    0,
+                    1626
+                ],
+                "bottom_right": [
+                    896,
+                    2170
+                ],
+                "caption": "The picture is a simple graphic with a solid teal background and a white border."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    44,
+                    34
+                ],
+                "bottom_right": [
+                    363,
+                    353
+                ],
+                "caption": "The picture features a circular design with a pattern of alternating blue and white colors. The blue elements are arranged in a radial fashion, creating a sense of symmetry around the center. The white elements are interspersed between the blue ones, forming a cohesive and balanced visual composition. The overall design is simple yet striking, with the contrast between the blue and white elements drawing the viewer's attention."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    174,
+                    933
+                ],
+                "bottom_right": [
+                    622,
+                    1120
+                ],
+                "caption": "The picture features a pattern of blue viruses with white dots on a light background."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    230,
+                    1520
+                ],
+                "bottom_right": [
+                    678,
+                    1707
+                ],
+                "caption": "The picture features a pattern of blue viruses with white dots on a light background."
+            },
+            {
+                "category": "element",
+                "top_left": [
+                    174,
+                    2092
+                ],
+                "bottom_right": [
+                    622,
+                    2240
+                ],
+                "caption": "The image features a pattern of stylized viruses or bacteria. These are depicted in a teal color with white dots, possibly representing the virus's surface proteins or the bacteria's flagella. The pattern is repeated across the image, creating a cohesive design."
+            },
+            {
+                "category": "text",
+                "top_left": [
+                    77,
+                    593
+                ],
+                "bottom_right": [
+                    830,
+                    680
+                ],
+                "caption": "Text \" 1. Increase cleaning and disinfecting\" in <color-33>, <en-font-0>. ",
+                "text": " 1. Increase cleaning and disinfecting"
+            },
+            {
+                "category": "text",
+                "top_left": [
+                    40,
+                    717
+                ],
+                "bottom_right": [
+                    861,
+                    848
+                ],
+                "caption": "Text \"Increase cleaning and disinfecting frequency throughout the hotel, paying attention to high-touch items.\" in <color-33>, <en-font-0>. ",
+                "text": "Increase cleaning and disinfecting frequency throughout the hotel, paying attention to high-touch items."
+            },
+            {
+                "category": "text",
+                "top_left": [
+                    78,
+                    1199
+                ],
+                "bottom_right": [
+                    831,
+                    1243
+                ],
+                "caption": "Text \" 2. Air circulation\" in <color-33>, <en-font-0>. ",
+                "text": " 2. Air circulation"
+            },
+            {
+                "category": "text",
+                "top_left": [
+                    38,
+                    1310
+                ],
+                "bottom_right": [
+                    859,
+                    1397
+                ],
+                "caption": "Text \"Improve  air circulation processes to increase air quality.\" in <color-33>, <en-font-0>. ",
+                "text": "Improve  air circulation processes to increase air quality."
+            },
+            {
+                "category": "text",
+                "top_left": [
+                    71,
+                    1777
+                ],
+                "bottom_right": [
+                    824,
+                    1820
+                ],
+                "caption": "Text \"3. Protective barrier\" in <color-33>, <en-font-0>. ",
+                "text": "3. Protective barrier"
+            },
+            {
+                "category": "text",
+                "top_left": [
+                    44,
+                    1898
+                ],
+                "bottom_right": [
+                    865,
+                    1985
+                ],
+                "caption": "Text \"Install protective screens at the front desk. (Optional)\" in <color-33>, <en-font-0>. ",
+                "text": "Install protective screens at the front desk. (Optional)"
+            },
+            {
+                "category": "text",
+                "top_left": [
+                    71,
+                    118
+                ],
+                "bottom_right": [
+                    824,
+                    293
+                ],
+                "caption": "Text \"Covid safety rules for Hotels\" in <color-76>, <en-font-0>. ",
+                "text": "Covid safety rules for Hotels"
+            }
+        ],
+        "full_image_caption": "The image is a digital graphic titled 'COVID SAFETY RULES FOR HOTELS.' The background is a soft beige with teal sections and illustrations of virus particles. The title is prominently displayed at the top in bold teal text. \n\nBelow the title, there are three numbered points, each providing a guideline for hotel safety measures related to COVID-19. The text is in white, which stands out against the teal sections. The font is sans-serif, giving the text a modern and clean appearance. The guidelines are as follows:\n\n1. '1. Increase cleaning and disinfecting': 'Increase cleaning and disinfecting frequency throughout the hotel, paying attention to high-touch items.'\n\n2. '2. Air circulation': 'Improve air circulation processes to increase air quality.'\n\n3. '3. Protective barrier': 'Install protective screens at the front desk. (Optional)'\n\nThe overall style of the image is informational and appears to be designed for educational or promotional purposes, likely to inform hotel staff or guests about the safety measures in place."
+    }
+]
