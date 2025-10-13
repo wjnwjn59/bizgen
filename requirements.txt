@@ -1,12 +1,12 @@
 transformers==4.36.2
 diffusers==0.26.1
 mmengine
+xformers
 accelerate
 wandb
 torch==2.2.0
 torchvision==0.17.0
 deepspeed
-xformers
 peft
 webcolors
 levenshtein
